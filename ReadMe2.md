@@ -1,6 +1,6 @@
 **Test, Test, _Test_, Test**
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
-* Item3
+1. Item 1
+1. Item 2
+  1. Item 2a
+  1. Item 2b
+2. Item3
